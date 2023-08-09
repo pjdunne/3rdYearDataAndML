@@ -1,11 +1,11 @@
-#Notes on Year 1 Computing
+# Notes on Year 1 Computing
 
 Tim Evans
 
 
 ## Lecture 1
 
-Session 1 Learning 
+Learning Outcomes
 * Create variables and carry out arithmetic
 operations on them.
 * Import packages (e.g. NumPy, Matplotlib).
@@ -22,7 +22,7 @@ Oddly the worksheets are in jupyter notesbooks but sypder ide is used next lectu
 
 ## Lecture 2
 
-Learning *
+Learning Outcomes
 * Plot a histogram of a 1D data set
 * Plot error bars on scatter plots
 * Fit a linear model to your data and plot both
@@ -40,6 +40,7 @@ skipping optional exercises."
 
 ## Lecture 3
 
+Learning Outcomes
 * Using the Spyder IDE
 * Writing functions
 * Using for, if and while statements to control
@@ -56,7 +57,7 @@ Sypder IDE, basic code.
 
 ## Lecture 4
 
-Topics covered:
+Learning Outcomes
 * Solving equations - roots(), fsolve()
 * Optimisation - fmin()
 * Differentiation and Integration - quad(), dblquad()
