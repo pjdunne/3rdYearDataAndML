@@ -1,5 +1,7 @@
 # Week 2 - Statistics
 
+Listed on options fair handout as "Probability and random variables - Gaussian, Poisson, Binomial".
+
 ## Introduction
 
 * Physicists hate statistics. 
