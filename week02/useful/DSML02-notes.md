@@ -31,7 +31,17 @@ The MRes Statistics course Phys70021 and in particular the notes from part 1 `St
     -  Frederick James, “Statistical Methods in Experimental Physics: 2nd Edition”, ISBN 978-9812705273, &pound;33. As recommended by Nick Wardle for MRes students.
     - Press et al, "Numerical recipes". Text free to download. Ignore the code.  The text and the outlines of the basic algorithms are what you will find most useful.
 	- Other texts?
-	
+
+
+# Section One: Basics of Probability 	
+
+* Do we really need the mathematical notation and relationships?
+* Do we ever use Bayesian statistics or the Frequentist view points?
+
+
+# Section Two: Probability Distributions
+
+* $ X \sim U(1,6)$ notation. Do we ever use it? IT IS FOR CONTINUOUS DISTRIBUTIONS ANY WAY, $\mathcal(U)$ in Wikipedia
 
 ## Gaussian Distribution 
 
