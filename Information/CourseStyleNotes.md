@@ -15,6 +15,15 @@
 <div style="background-color:#C2F5DD">
 #### Examples and exercises
 
+<div style="background-color:#C2F5DD">
+
+End of exercise
+
+
+<div style="background-color: #C2D5BD"> 
+
+OPTIONAL Exercise
+
 
 
 <div style="background-color:#efdff2">
