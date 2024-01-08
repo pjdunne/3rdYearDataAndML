@@ -45,7 +45,7 @@ Then you want TWO cells, first (perhaps with line)
 <a id='section2'></a>
 ```
 then in next cell
-`## Section 2`
+`## Section 2` [^](#outline)
 
 
 
