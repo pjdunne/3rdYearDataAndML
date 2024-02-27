@@ -30,6 +30,14 @@ OPTIONAL Exercise
 #### Appendices
 
 
+
+
+<div style="background-color: #FFEEEC">
+
+#### Use for exam questions
+
+
+
 ## Internal hyperlinks
 
 This trick for [internal hyperlinks](https://sebastianraschka.com/Articles/2014_ipython_internal_links.html)
